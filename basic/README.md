@@ -15,6 +15,7 @@ To learn how to get the cookie click <a href=/>Here</a>
 
 It'll return json data and status of 200 the json structure has the following
 <br>
+```
 id : "boardID"
 name : "Name Of Board"
 desc : ""
@@ -27,4 +28,4 @@ url : "https://trello.com/b/urlCode/Name-Of-Board"
 shortUrl : "https://trello.com/b/urlCode"
 prefs : LIST
 labelNames : LIST
-
+```
