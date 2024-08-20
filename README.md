@@ -5,5 +5,6 @@ Also for the trello developers I love you but please fix the backend api why is 
 
 <h2>Endpoints</h2>
 <ul>
-  <li><a href=/basic>Return Basic Information</a></li>
+  <li><a href=/basic>Querying Information</a></li>
+  <li><a href=#cookie>Get Your Cookies</a></li>
 </ul>
