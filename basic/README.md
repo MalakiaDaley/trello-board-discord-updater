@@ -12,7 +12,7 @@ When sending a request to the backend you need a cookie known as cloud.session.t
 To learn how to get the cookie click <a href=/>Here</a>
 
 <h2>Information Returned</h2>
-
+#
 It'll return json data and status of 200 the json structure has the following
 id : "boardID"
 name : "Name Of Board"
