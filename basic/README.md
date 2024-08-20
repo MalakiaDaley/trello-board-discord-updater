@@ -1,5 +1,5 @@
 
-# Returning basic information
+# Querying Information
 
 https://trello.com/1/board/
 
