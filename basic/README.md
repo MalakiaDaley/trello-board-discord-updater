@@ -14,6 +14,7 @@ To learn how to get the cookie click <a href=/>Here</a>
 # Information Returned
 
 It'll return json data and status of 200 the json structure has the following
+<br>
 id : "boardID"
 name : "Name Of Board"
 desc : ""
