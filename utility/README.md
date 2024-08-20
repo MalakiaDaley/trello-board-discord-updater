@@ -7,19 +7,7 @@ This will return information about cards, limits, members etc
 boardURL = is before the boards name
 Encoded = the url safe one which you can send requests to
 
-You'll also need a cookie by the name of cloud.session.token= you can find this on the requests tab in the request headers
-Look for a request under the specified endpoint using the filter on the network tab on inspect element
-Scroll down it's headers until you can see "Cookie" you'll also see cloud.session.token use this as it acts as authorization
-
-OR
-
-Go to inspect element while on the board
-Go to application
-Go to cookies
-Go to trello.com cookie
-And copy cloud.session.token from there
-
-<hr>
+You will need the cookie from <a href=/#cookie>Here</a>
 
 The data returned will be in a json format put it into jsonviewer and you'll see the structure and understand it
 
