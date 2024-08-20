@@ -109,3 +109,7 @@ softLimit
 subscribed
 type
 ```
+
+Let's say I query https://trello.com/1/board/urlCODE?cards=visible&card_fields=name
+
+this would return all the basic board information and card information but because we specified card_fields=name it'll only return the id of the card and the name
