@@ -1,6 +1,6 @@
-# trello-board-discord-updater
-This will send updates to your discord server when there's a new trello card added to the board you can configure this however you want. I'll maybe edit this in future but right now this is extremely barebones. I believe locking this feature behind paywall is insanely stupid and greedy.
+# trello-api-understanding
 
+Hello this was originally going to be discord auto-updater for trello but I'll do that in another repo once I've set things up. This is some of trello's backend API and give's brief understanding to returning key information
 Also for the trello developers I love you but please fix the backend api why is one your requests longer than a paragraph I'd write in an exam. Straight up BULLYING.
 
 <h2>Endpoints</h2>
